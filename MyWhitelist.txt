@@ -1,0 +1,32 @@
+# My Whitelist File to not block
+# 
+# MyWhitelist.txt
+#
+
+# 
+# As of 14/09/2019
+# Start
+#
+
+#Google
+accounts.google.com
+play.googleapis.com
+connectivitycheck.gstatic.com
+geomobileservices-pa.googleapis.com
+maps.googleapis.com
+clients4.google.com
+youtu.be
+
+
+#Microsoft
+m.hotmail.com
+cnd.content.prod.cms.msn.com
+
+
+#Arlo
+my.arlo.com
+ocapi.arlo.com
+arlos3-prod-z3.s3.amazonaws.com
+arlolastimage-z3.s3.amazonaws.com
+iyazy66697.i.lithium.com
+
