@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 14/09/2019
+# As of 15/09/2019
 # Start
 #
 
@@ -14,7 +14,10 @@ play.googleapis.com
 connectivitycheck.gstatic.com
 geomobileservices-pa.googleapis.com
 maps.googleapis.com
+clients2.google.com
+clients3.google.com
 clients4.google.com
+clients5.google.com
 youtu.be
 
 
@@ -30,3 +33,27 @@ arlos3-prod-z3.s3.amazonaws.com
 arlolastimage-z3.s3.amazonaws.com
 iyazy66697.i.lithium.com
 
+
+#Dropbox
+dropbox.com
+dl-web.dropbox.com
+dl.dropbox.com
+dl.dropboxusercontent.com
+ns1.dropbox.com
+ns2.dropbox.com
+photos-1.dropbox.com
+photos-4.dropbox.com
+
+
+#Link Shortners
+www.bit.ly
+bit.ly
+ow.ly
+j.mp
+goo.gl
+tinyurl.com
+
+#
+res.cloudinary.com #(Used by Facebook for image uploads)
+gravatar.com
+rover.ebay.com
