@@ -1,0 +1,15 @@
+# Myampproject
+#
+# 09/10/2019
+#
+
+www-popsugar-com-au.cdn.ampproject.org
+www-seventeen-com.cdn.ampproject.org
+www-nowtolove-com-au.cdn.ampproject.org
+amp-dailytelegraph-com-au.cdn.ampproject.org
+10daily-com-au.cdn.ampproject.org
+www-elle-com-au.cdn.ampproject.org
+m-huffingtonpost-com-au.cdn.ampproject.org
+amp-nine-com-au.cdn.ampproject.org
+onlinearticles-net.cdn.ampproject.org
+
