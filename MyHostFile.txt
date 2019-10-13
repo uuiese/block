@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 11/10/2019
+# As of 13/10/2019
 # Start Part 1/3
 
 # Tesla
@@ -61,6 +61,7 @@ beacons-handoff.gcp.gvt2.com
 gae-nel-us-central.gcp.gvt2.com
 gce-beacons.gcp.gvt2.com
 gvt2.com
+afs.googleusercontent.com
 
 
 #Other
@@ -68,6 +69,10 @@ k.intellitxt.com
 oneclient.sfx.ms
 ubmobileappprod.112.2o7.net
 www.movable-ink-2183.com
+chimpstatic.com
+
+
+
 
 #
 #
