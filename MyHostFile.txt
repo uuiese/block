@@ -70,7 +70,10 @@ oneclient.sfx.ms
 ubmobileappprod.112.2o7.net
 www.movable-ink-2183.com
 chimpstatic.com
+assets.ctfassets.net
 images.ctfassets.net
+videos.ctfassets.net
+downloads.ctfassets.net
 
 
 
