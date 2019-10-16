@@ -1,6 +1,6 @@
 # Myampproject
 #
-# 13/10/2019
+# 16/10/2019
 #
 
 www-popsugar-com-au.cdn.ampproject.org
@@ -17,6 +17,7 @@ www-evo-co-uk.cdn.ampproject.org
 electrek-co.cdn.ampproject.org
 amp-capitalfm-com.cdn.ampproject.org
 www-apartmenttherapy-com.cdn.ampproject.org
+www-perthnow-com-au.cdn.ampproject.org
 
 
 ##https://www.virustotal.com/gui/domain/cdn.ampproject.org/relations
