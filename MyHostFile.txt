@@ -81,6 +81,22 @@ downloads.ctfassets.net
 cdn.swellrewards.com
 
 
+# Targeted Marketing Company 
+accengage.com
+api10.accengage.com
+api9.accengage.com
+api8.accengage.com
+api7.accengage.com
+api6.accengage.com
+api5.accengage.com
+api4.accengage.com
+api3.accengage.com
+api2.accengage.com
+api1.accengage.com
+api.accengage.com
+
+
+
 #
 #
 ########################################
