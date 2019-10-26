@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 16/10/2019
+# As of 26/10/2019
 # Start Part 1/3
 
 # Tesla
@@ -16,9 +16,13 @@ tesla.tt.omtrdc.net
 com.android.chrome
 com.sec.android.app.sbrowser
 
+# Ebay
+srx.main.ebayrtm.com
+
 # gstatic
 #encrypted-tbn0.gstatic.com
-#csi.gstatic.com
+csi.gstatic.com
+www.csi.gstatic.com
 
 # Key Messages App
 www.smsblocker.in
