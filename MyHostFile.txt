@@ -79,6 +79,7 @@ images.ctfassets.net
 videos.ctfassets.net
 downloads.ctfassets.net
 cdn.swellrewards.com
+fls-na.amazon.com
 
 
 # Targeted Marketing Company 
