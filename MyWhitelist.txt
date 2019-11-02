@@ -4,9 +4,16 @@
 #
 
 # 
-# As of 12/10/2019
+# As of 02/11/2019
 # Start
 #
+
+#Extra
+rarbg.to
+www.rarbg.to
+thepiratebay.org
+torrentz2.eu
+
 
 #Facebook
 graph.facebook.com
