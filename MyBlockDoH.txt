@@ -1,7 +1,7 @@
 ##MyBlockDoH
 ##https://github.com/bambenek/block-doh
 
-# 20/10/2019
+# 15/12/2019
 
 dns.google
 #cloudflare-dns.com
@@ -13,7 +13,7 @@ doh.crypto.sx
 doh.powerdns.org
 doh-jp.blahdns.com
 dns.dns-over-https.com
-doh.securedns.eu
+#doh.securedns.eu
 dns.rubyfish.cn
 doh.dnswarden.com
 doh.captnemo.in
