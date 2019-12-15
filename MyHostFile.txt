@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 26/10/2019
+# As of 15/12/2019
 # Start Part 1/3
 
 # Tesla
@@ -63,7 +63,6 @@ beacons4.gvt2.com
 beacons5.gvt2.com
 beacons-handoff.gcp.gvt2.com
 gae-nel-us-central.gcp.gvt2.com
-gce-beacons.gcp.gvt2.com
 gvt2.com
 afs.googleusercontent.com
 
@@ -187,6 +186,27 @@ experimentationcoa-bing-tas.msedge.net
 
 
 ######################################
+
+# Apomaya is a digital ad platform,
+# Primarily by unblocking ad blockers through
+# a new tech category called application unification.
+cdn.apomaya.net
+9to5google.apomaya.net
+electrek.apomaya.net
+9to5toys.apomaya.net
+9to5mac.apomaya.net
+dronedj.apomaya.net
+sponsored.apomaya.net
+wp.apomaya.net
+wordpress.apomaya.net
+demo.apomaya.net
+aevseev.apomaya.net
+aevseev-static.apomaya.net
+assets.apomaya.net
+demo2.apomaya.net
+staging.apomaya.net
+ng.apomaya.net
+marketing.apomaya.com
 
 api.crashlytics.com 
 try.crashlytics.com 
