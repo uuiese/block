@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 24/12/2019
+# As of 25/12/2019
 # Start
 #
 
@@ -18,6 +18,8 @@ torrentz2.eu
 #Facebook
 graph.facebook.com
 api.facebook.com
+#(Used by Facebook for image uploads)
+res.cloudinary.com
 
 #Google
 accounts.google.com
@@ -74,6 +76,5 @@ goo.gl
 tinyurl.com
 
 #
-res.cloudinary.com #(Used by Facebook for image uploads)
 gravatar.com
 rover.ebay.com
