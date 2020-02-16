@@ -26,7 +26,7 @@ accounts.google.com
 play.googleapis.com
 connectivitycheck.gstatic.com
 geomobileservices-pa.googleapis.com
-semanticlocation-pa.googleapis.com
+#semanticlocation-pa.googleapis.com
 maps.googleapis.com
 appsbackup-pa.googleapis.com
 instantmessaging-pa.googleapis.com
@@ -36,7 +36,7 @@ people-pa.googleapis.com
 mdh-pa.googleapis.com
 voledevice-pa.googleapis.com
 chromecontentsuggestions-pa.googleapis.com
-clients2.google.com
+#clients2.google.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
