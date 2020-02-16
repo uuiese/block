@@ -60,6 +60,7 @@ platform.linkedin.com
 # Facebook
 b-api.facebook.com
 b-graph.facebook.com
+graph.fbpigeon.com
 
 #Google
 beacons.gvt2.com
@@ -73,6 +74,18 @@ beacons-handoff.gcp.gvt2.com
 gae-nel-us-central.gcp.gvt2.com
 gvt2.com
 afs.googleusercontent.com
+imasdk.googleapis.com
+chromereader-pa.googleapis.com
+safebrowsing.googleapis.com
+clients2.google.com
+dns.google.com
+
+#Google used as Tracking/Cookies
+fonts.googleapis.com
+
+
+#Microsoft
+arc.msn.com
 
 
 #Other
