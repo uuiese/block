@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 25/12/2019
+# As of 23/02/2020
 # Start Part 1/3
 
 # wp.com
@@ -58,9 +58,13 @@ platform.bing.com
 platform.linkedin.com
 
 # Facebook
-b-api.facebook.com
-b-graph.facebook.com
 graph.fbpigeon.com
+## Facebook on computer in Browser 
+#b-api.facebook.com
+#b-graph.facebook.com
+#connect.facebook.com
+#fb.me
+## End Facebook on computer in Browser 
 
 #Google
 beacons.gvt2.com
@@ -74,7 +78,8 @@ beacons-handoff.gcp.gvt2.com
 gae-nel-us-central.gcp.gvt2.com
 gvt2.com
 afs.googleusercontent.com
-imasdk.googleapis.com
+# to make Boomberg work
+#imasdk.googleapis.com
 chromereader-pa.googleapis.com
 safebrowsing.googleapis.com
 clients2.google.com
