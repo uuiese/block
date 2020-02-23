@@ -4,9 +4,17 @@
 #
 
 # 
-# As of 25/12/2019
+# As of 23/02/2020
 # Start
 #
+
+# Bloomberg.com Video and Marketwatch.com to run
+# https://discourse.pi-hole.net/t/bloomberg-and-marketwatch-video-blocked-why/9791/17
+imasdk.googleapis.com
+login.bloomberg.com
+nav.bloomberg.com
+personalization.bloomberg.com
+
 
 #Extra
 rarbg.to
@@ -20,13 +28,20 @@ graph.facebook.com
 api.facebook.com
 #(Used by Facebook for image uploads)
 res.cloudinary.com
+## Facebook on computer in Browser 
+b-api.facebook.com
+b-graph.facebook.com
+connect.facebook.com
+fb.me
+## End Facebook on computer in Browser 
+
 
 #Google
 accounts.google.com
 play.googleapis.com
 connectivitycheck.gstatic.com
 geomobileservices-pa.googleapis.com
-#semanticlocation-pa.googleapis.com
+semanticlocation-pa.googleapis.com
 maps.googleapis.com
 appsbackup-pa.googleapis.com
 instantmessaging-pa.googleapis.com
@@ -74,6 +89,7 @@ ow.ly
 j.mp
 goo.gl
 tinyurl.com
+t.me
 
 #
 gravatar.com
