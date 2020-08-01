@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 23/02/2020
+# As of 01/08/2020
 # Start
 #
 
@@ -14,13 +14,14 @@ imasdk.googleapis.com
 login.bloomberg.com
 nav.bloomberg.com
 personalization.bloomberg.com
-
+s.marketwatch.com
 
 #Extra
 rarbg.to
 www.rarbg.to
 thepiratebay.org
 torrentz2.eu
+www.teslarati.com
 
 
 #Facebook
@@ -28,20 +29,32 @@ graph.facebook.com
 api.facebook.com
 #(Used by Facebook for image uploads)
 res.cloudinary.com
-## Facebook on computer in Browser 
-b-api.facebook.com
-b-graph.facebook.com
+## Facebook on computer in Browser/Massenger not working?
+upload.facebook.com
+#b-graph.facebook.com
 connect.facebook.com
+connect.facebook.net
+api.facebook.com
+#b-api.facebook.com
+edge-mqtt.facebook.com
+mqtt.c10r.facebook.com
+portal.fb.com
+star.c10r.facebook.com
+star-mini.c10r.facebook.com
 fb.me
+www.facebook.com
+scontent.xx.fbcdn.net
+scontent-sjc2-1.xx.fbcdn.net
 ## End Facebook on computer in Browser 
 
 
 #Google
 accounts.google.com
 play.googleapis.com
+connectivitycheck.android.com
 connectivitycheck.gstatic.com
 geomobileservices-pa.googleapis.com
-semanticlocation-pa.googleapis.com
+#semanticlocation-pa.googleapis.com
 maps.googleapis.com
 appsbackup-pa.googleapis.com
 instantmessaging-pa.googleapis.com
@@ -51,6 +64,7 @@ people-pa.googleapis.com
 mdh-pa.googleapis.com
 voledevice-pa.googleapis.com
 chromecontentsuggestions-pa.googleapis.com
+clients1.google.com
 #clients2.google.com
 clients3.google.com
 clients4.google.com
@@ -61,6 +75,8 @@ youtu.be
 #Microsoft
 m.hotmail.com
 cnd.content.prod.cms.msn.com
+activity.windows.com
+answers.microsoft.com
 
 
 #Arlo
