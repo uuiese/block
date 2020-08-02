@@ -59,11 +59,14 @@ platform.linkedin.com
 
 # Facebook
 graph.fbpigeon.com
-## Facebook on computer in Browser 
-#b-api.facebook.com
-#b-graph.facebook.com
+## Facebook on computer in Browser not working?
+b-api.facebook.com
+b-graph.facebook.com
 #connect.facebook.com
+#connect.facebook.net
 #fb.me
+portal.fb.com
+b-www.facebook.com
 ## End Facebook on computer in Browser 
 
 #Google
@@ -84,6 +87,7 @@ chromereader-pa.googleapis.com
 safebrowsing.googleapis.com
 clients2.google.com
 dns.google.com
+mobilenetworkscoring-pa.googleapis.com
 
 #Google used as Tracking/Cookies
 fonts.googleapis.com
