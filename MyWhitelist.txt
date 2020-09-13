@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 01/08/2020
+# As of 13/09/2020
 # Start
 #
 
@@ -31,11 +31,11 @@ api.facebook.com
 res.cloudinary.com
 ## Facebook on computer in Browser/Massenger not working?
 upload.facebook.com
-#b-graph.facebook.com
+b-graph.facebook.com
 connect.facebook.com
 connect.facebook.net
 api.facebook.com
-#b-api.facebook.com
+b-api.facebook.com
 edge-mqtt.facebook.com
 mqtt.c10r.facebook.com
 portal.fb.com
@@ -45,6 +45,8 @@ fb.me
 www.facebook.com
 scontent.xx.fbcdn.net
 scontent-sjc2-1.xx.fbcdn.net
+#Used as (tracking-) redirect to external websites
+l.facebook.com
 ## End Facebook on computer in Browser 
 
 
