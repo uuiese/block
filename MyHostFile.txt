@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 13/09/2020
+# As of 09/10/2021
 # Start Part 1/3
 
 # wp.com
@@ -110,6 +110,175 @@ downloads.ctfassets.net
 cdn.swellrewards.com
 fls-na.amazon.com
 urs.cnet.com
+
+
+# instagram
+api.instagram.com
+black.ish.instagram.com
+i.instagram.com
+instagram-shv-01-ams2.fbcdn.net
+instagram-shv-01-ams3.fbcdn.net
+instagram-shv-01-ash5.fbcdn.net
+instagram-shv-01-atl1.fbcdn.net
+instagram-shv-01-bru2.fbcdn.net
+instagram-shv-01-cai1.fbcdn.net
+instagram-shv-01-cdg2.fbcdn.net
+instagram-shv-01-dfw1.fbcdn.net
+instagram-shv-01-fra3.fbcdn.net
+instagram-shv-01-gru1.fbcdn.net
+instagram-shv-01-hkg2.fbcdn.net
+instagram-shv-01-iad3.fbcdn.net
+instagram-shv-01-kul1.fbcdn.net
+instagram-shv-01-lax1.fbcdn.net
+instagram-shv-01-lga1.fbcdn.net
+instagram-shv-01-lhr3.fbcdn.net
+instagram-shv-01-mad1.fbcdn.net
+instagram-shv-01-mia1.fbcdn.net
+instagram-shv-01-mxp1.fbcdn.net
+instagram-shv-01-nrt1.fbcdn.net
+instagram-shv-01-ord1.fbcdn.net
+instagram-shv-01-sea1.fbcdn.net
+instagram-shv-01-sin1.fbcdn.net
+instagram-shv-01-sjc2.fbcdn.net
+instagram-shv-01-syd1.fbcdn.net
+instagram-shv-01-tpe1.fbcdn.net
+instagram-shv-01-vie1.fbcdn.net
+instagram-shv-02-cai1.fbcdn.net
+instagram-shv-02-hkg2.fbcdn.net
+instagram-shv-03-ash5.fbcdn.net
+instagram-shv-03-atn1.fbcdn.net
+instagram-shv-03-hkg1.fbcdn.net
+instagram-shv-03-lla1.fbcdn.net
+instagram-shv-03-prn2.fbcdn.net
+instagram-shv-03-xdc1.fbcdn.net
+instagram-shv-04-hkg1.fbcdn.net
+instagram-shv-06-atn1.fbcdn.net
+instagram-shv-06-lla1.fbcdn.net
+instagram-shv-07-ash4.fbcdn.net
+instagram-shv-07-frc3.fbcdn.net
+instagram-shv-09-frc1.fbcdn.net
+instagram-shv-09-lla1.fbcdn.net
+instagram-shv-12-frc1.fbcdn.net
+instagram-shv-12-frc3.fbcdn.net
+instagram-shv-12-lla1.fbcdn.net
+instagram-shv-12-prn1.fbcdn.net
+instagram-shv-13-frc1.fbcdn.net
+instagram-shv-17-prn1.fbcdn.net
+instagram-shv-18-prn1.fbcdn.net
+instagram.com
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net.edgesuite.net
+logger.instagram.com
+platform.instagram.com
+scontent-iad3-1.cdninstagram.com
+scontent.cdninstagram.com
+telegraph-ash.instagram.com
+white.ish.instagram.com
+www.instagram.com
+cdninstagram.com
+
+
+# Tiktok
+api-h2.tiktokv.com
+api21-h2.tiktokv.com
+ns-440.awsdns-55.com
+ns-722.awsdns-26.net
+ns-1475.awsdns-56.org
+ns-1574.awsdns-04.co.uk
+tiktokcdn-com.akamaized.net
+m.tiktok.com
+t.tiktok.com
+tiktok.com
+tiktok.org
+tiktokcdn.com
+tiktokv.com
+vt.tiktok.com
+v19.tiktokcdn.com
+v16.tiktokcdn.com
+api.tiktokv.com
+mon.tiktokv.com
+ib.tiktokv.com
+p16-tiktokcdn-com.akamaized.net
+v16-tiktokcdn-com.akamaized.net
+musical.ly
+muscdn.com
+akamai.net
+isnssdk.com
+www.tiktok.com
+
+
+# Snapchat Chat
+chat-gateway-prod.chat.snapchat.com
+
+# Snapchat Website
+www.snapchat.com
+snapchat.com
+snap.com
+
+# Snapchat App
+feelinsonice-mvm.l.google.com
+feelinsonice-hrd.appspot.com
+app.snapchat.com
+mvm.snapchat.com
+
+# Snapchat Login
+pro-accounts.snapchat.com
+auth.snapchat.com
+
+# Snapchat Snapkit
+api.snapkit.com
+
+# Snapchat Other
+sc-cdn.net
+gcs.sc-cdn.net
+jaguar-prod.snapchat.com
+st.sc-jpl.com
+gtq.sct.sc-prod.net
+am-prod.sc-jpl.com
+s.sc-cdn.net
+cf-st.sc-cdn.net
+bolt-gcdn.sc-cdn.net
+us-east1-aws.api.snapchat.com
+images.bitmoji.com
+us-east1-aws.api.snapchat.com
+api.snapchat.com
+us-east1-aws.api.sc-gw.com
+snap-storage-cdn.l.google.com
+snap.events.mapbox.com
+ms.sc-jpl.com
+snap.api.mapbox.com
+st-lb.sc-jpl.com
+loc.sc-jpl.com
+cognac-prod.appspot.com
+scm.sc-jpl.com
+us-central1-gcp.api.sc-gw.com
+us-central1-gcp.api.snapchat.com
+map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com
+snapchat.appspot.com
+sc-analytics.appspot.com
+feelinsonice.appspot.com
+feelinsonice-hrd.appspot.com
+feelinsonice.com
+feelinsonice.appspot.com
+appspot.l.google.com
+data.flurry.com
+ase.adserver.snapads.com
+euw.adserver.snapads.com
+use.adserver.snapads.com
+usc.adserver.snapads.com
+app-analytics.snapchat.com
+app.snapchat.com
+aws.api.snapchat.com
+cf-st.sc-cdn.net
+chat-gateway-prod.chat.snapchat.com
+gtq.sct.sc-prod.ne
+tib.snssdk.com
+loca.sc-jpl.com
+mvm.snapchat.com
+us-central1-gcp.api.snapchat.com
+
+# Snapchat Location?
+loca.sc-jpl.com
 
 
 # Targeted Marketing Company 
