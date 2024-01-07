@@ -4,7 +4,7 @@
 #
 
 # 
-# As of 09/10/2021
+# As of 07/01/2024
 # Start Part 1/3
 
 # wp.com
@@ -59,14 +59,18 @@ platform.linkedin.com
 
 # Facebook
 graph.fbpigeon.com
-## Facebook on computer in Browser not working?
-#b-api.facebook.com
-#b-graph.facebook.com
-#connect.facebook.com
-#connect.facebook.net
-#fb.me
+a-graph.facebook.com
 portal.fb.com
 b-www.facebook.com
+mqtt-mini.facebook.com
+connect.facebook.com
+connect.facebook.net
+apps.facebook.com
+web.facebook.com
+web.facebook.net
+web-fallback.facebook.com
+contactimporter.facebook.com
+lithium.facebook.com
 ## End Facebook on computer in Browser 
 
 #Google
@@ -85,10 +89,19 @@ afs.googleusercontent.com
 #imasdk.googleapis.com
 chromereader-pa.googleapis.com
 safebrowsing.googleapis.com
-clients2.google.com
+android-safebrowsing.google.com
 dns.google.com
+google-public-dns-a.google.com
 mobilenetworkscoring-pa.googleapis.com
-
+safebrowsing.googleapis.com
+clientservices.googleapis.com
+auditrecording-pa.googleapis.com
+afwprovisioning-pa.googleapis.com
+personalsafety-pa.googleapis.com
+clienttracing-pa.googleapis.com
+android-context-data.googleapis.com
+history.google.com
+locationhistory-pa.googleapis.com
 #Google used as Tracking/Cookies
 #fonts.googleapis.com
 
